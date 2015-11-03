@@ -1,0 +1,30 @@
+.result{
+    display: block;
+    width: 300px;
+}
+
+label{
+    margin-right: 30px;
+}
+
+h2{
+    margin-top: 5px;
+}
+
+#calculate{
+    margin-left: 30px;
+}
+
+div{
+    margin: 15px;
+}
+form{
+    margin: auto;
+    width: 500px;
+}
+
+form h2{
+    border-bottom: 2px solid black;
+
+}
+
