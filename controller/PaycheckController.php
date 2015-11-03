@@ -12,7 +12,7 @@ if(is_numeric($salary)) {
 
 $calculation = array (
     'INSS' => $inss,
-    'IR' => $ir,
+    'IRPF' => $ir,
     'liquidSalary' => $liquidSalary
 );
 
